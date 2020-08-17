@@ -18,6 +18,11 @@
   3. Machine Learning ( Supervised, Semi-Supervised, and Clustering techinques)
   4. ML libraries : Sci-kit Learn, keras, TF
  
+ **Projects**
+ 
+**1. SQL** [Studying deforestation](https://github.com/rishabhCMS/SQL_Deforestation_project#sql-deforestation-project)
+ 
+ 
  **awards and recognitions**
   1. FermiLab Guest and Visitors Research Fellowship
   2. First Place: Data Science Hackathon: DC voter turnout
