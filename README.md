@@ -21,7 +21,7 @@
  **Projects**
  
 **1. SQL** [Studying deforestation](https://github.com/rishabhCMS/SQL_Deforestation_project#sql-deforestation-project)
- 
+**2. DNN** [Visual Recgnition](https://github.com/rishabhCMS/unbalanced_CNN)
  
  **awards and recognitions**
   1. FermiLab Guest and Visitors Research Fellowship
